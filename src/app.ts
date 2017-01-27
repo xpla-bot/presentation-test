@@ -7,6 +7,7 @@ import {BrowserModule} from '@angular/platform-browser'
   template: `
     <div>
       <h2>Hello {{name}}</h2>
+      <p>Second paragraph</p>
     </div>
   `,
 })
